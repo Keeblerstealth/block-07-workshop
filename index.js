@@ -19,4 +19,5 @@ console.log(comboThree)
 
 //use alert() to display a message to the user giving them the vault combination
 
-alert(`${`Y`}ou have received this message because you havebeen chosen to open an important vault. Here is the secret combination is${comboOne}-${comboTwo}-${comboThree}`)
+alert(`${`Y`}ou have received this message because you havebeen chosen to open an important vault. Here is the secret combination is
+  ${comboOne}-${comboTwo}-${comboThree}`)
