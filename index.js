@@ -1,5 +1,3 @@
-//use alert() to display a message to the user giving them the vault combination
-alert("You have received this message because you havebeen chosen to open an important vault. Here is the secret combination:s 10 - 40 - 39")
 //use const to create three variables that will be the numbers for the combitnation
 
 //const numOne = 11
@@ -18,3 +16,7 @@ let comboThree = comboTwo - 1
 console.log(comboOne)
 console.log(comboTwo)
 console.log(comboThree)
+
+//use alert() to display a message to the user giving them the vault combination
+
+alert(`${`Y`}ou have received this message because you havebeen chosen to open an important vault. Here is the secret combination is${comboOne}-${comboTwo}-${comboThree}`)
